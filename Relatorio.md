@@ -1,3 +1,8 @@
+Victor Ferracini Rodrigues - 32273134
+Davi Micale - 32096062
+Yuri Nichimura - 32230877
+
+
 1) Rode o programa anterior para valores grandes de n. As mensagens sempre estar˜ao ordenadas pelo valor de i?
 
    Passo 1. Criar um arquivo com extensão .c chamado stderr.c
