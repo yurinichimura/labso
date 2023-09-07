@@ -1,5 +1,7 @@
 Victor Ferracini Rodrigues - 32273134
+
 Davi Micale - 32096062
+
 Yuri Nichimura - 32230877
 
 
